@@ -16,6 +16,7 @@ function Cart() {
     0
   );
 
+  
   return (
     <div className="container mx-auto my-5 w-[1000px] ">
       <h1 className="font-bold text-3xl text-center text">Shopping Cart</h1>
